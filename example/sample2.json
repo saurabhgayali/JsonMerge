@@ -1,0 +1,38 @@
+{
+    "product_3": {
+        "title": "Google Pixel 6",
+        "price": 899.99,
+        "specs": {
+            "display": "OLED",
+            "resolution": "2400 x 1080 pixels",
+            "camera": {
+                "rear": {
+                    "type": "Dual Camera",
+                    "megapixels": "50 MP (wide), 12 MP (ultrawide)"
+                },
+                "front": {
+                    "type": "Selfie Camera",
+                    "megapixels": "12 MP"
+                }
+            }
+        }
+    },
+    "product_4": {
+        "title": "OnePlus 9 Pro",
+        "price": 1099.99,
+        "specs": {
+            "display": "Fluid AMOLED",
+            "resolution": "3216 x 1440 pixels",
+            "camera": {
+                "rear": {
+                    "type": "Quad Camera",
+                    "megapixels": "48 MP (wide), 50 MP (ultrawide), 8 MP (telephoto), 2 MP (monochrome)"
+                },
+                "front": {
+                    "type": "16 MP Selfie Camera",
+                    "megapixels": "16 MP"
+                }
+            }
+        }
+    }
+}

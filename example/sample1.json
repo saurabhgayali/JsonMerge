@@ -1,0 +1,38 @@
+{
+    "product_1": {
+        "title": "Apple iPhone 13",
+        "price": 999.99,
+        "specs": {
+            "display": "Super Retina XDR",
+            "resolution": "2532 x 1170 pixels",
+            "camera": {
+                "rear": {
+                    "type": "Dual Camera",
+                    "megapixels": "12 MP (wide), 12 MP (ultrawide)"
+                },
+                "front": {
+                    "type": "TrueDepth Camera",
+                    "megapixels": "12 MP"
+                }
+            }
+        }
+    },
+    "product_2": {
+        "title": "Samsung Galaxy S21",
+        "price": 799.99,
+        "specs": {
+            "display": "Dynamic AMOLED 2X",
+            "resolution": "2400 x 1080 pixels",
+            "camera": {
+                "rear": {
+                    "type": "Triple Camera",
+                    "megapixels": "12 MP (wide), 12 MP (ultrawide), 64 MP (telephoto)"
+                },
+                "front": {
+                    "type": "10 MP Selfie Camera",
+                    "megapixels": "10 MP"
+                }
+            }
+        }
+    }
+}

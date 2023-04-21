@@ -1,0 +1,38 @@
+{
+    "product_5": {
+        "title": "Xiaomi Mi 11",
+        "price": 699.99,
+        "specs": {
+            "display": "AMOLED",
+            "resolution": "2400 x 1080 pixels",
+            "camera": {
+                "rear": {
+                    "type": "Triple Camera",
+                    "megapixels": "108 MP (wide), 13 MP (ultrawide), 5 MP (macro)"
+                },
+                "front": {
+                    "type": "20 MP Selfie Camera",
+                    "megapixels": "20 MP"
+                }
+            }
+        }
+    },
+    "product_6": {
+        "title": "LG Velvet 5G",
+        "price": 599.99,
+        "specs": {
+            "display": "P-OLED",
+            "resolution": "2460 x 1080 pixels",
+            "camera": {
+                "rear": {
+                    "type": "Triple Camera",
+                    "megapixels": "48 MP (wide), 8 MP (ultrawide), 5 MP (depth)"
+                },
+                "front": {
+                    "type": "16 MP Selfie Camera",
+                    "megapixels": "16 MP"
+                }
+            }
+        }
+    }
+}
