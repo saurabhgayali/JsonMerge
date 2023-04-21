@@ -1,6 +1,6 @@
 ## Json file merger
 
-The scipt merges multiple json files into one. It required all files to be merged into one directory. 
+The scipt merges multiple json files into one. It requires all files to be merged into one directory. 
 
 You can keep the script in the same directory and run it without any arguments.
 
